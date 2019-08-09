@@ -35,7 +35,7 @@
                                         </userDefinedRuntimeAttributes>
                                     </label>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="9QG-pg-Frw">
-                                        <rect key="frame" x="0.0" y="598" width="374.00000000000023" height="100"/>
+                                        <rect key="frame" x="0.0" y="598" width="374" height="100"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="100" id="3Xd-kg-zdV"/>
                                         </constraints>
@@ -51,7 +51,7 @@
                                         </userDefinedRuntimeAttributes>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="fwF-55-PpX">
-                                        <rect key="frame" x="0.0" y="718" width="374.00000000000023" height="100"/>
+                                        <rect key="frame" x="0.0" y="718" width="374" height="100"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="100" id="ymn-43-hmb"/>
                                         </constraints>

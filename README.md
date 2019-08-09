@@ -5,7 +5,7 @@
 
 ## Our Goal
 
-The goal of this tutorial is to get you comfortable with the MVC design pattern and thinking about the state of your app. In addition, you will be using logic to control the flow of the program. This is a challenge where you’ll solidify your understanding of IF-ELSE statements and comparison operators.
+The goal of this challenge is to get you comfortable with implementing the MVC design pattern and thinking about the state of your app. In addition, you will be reviewing the concept of Swift Structures and using it to separate the Model from the Controller. 
 
 ## What you will create
 
