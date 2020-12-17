@@ -40,9 +40,9 @@ class ViewController: UIViewController {
     
     func updateUI() {
         let tempCurrentStory = storyBrain.currentStory
-        storyLabel.text = storyBrain.example[tempCurrentStory].story0
-        choice1Button.setTitle(storyBrain.example[tempCurrentStory].choice1, for: .normal)
-        choice2Button.setTitle(storyBrain.example[tempCurrentStory].choice2, for: .normal)
+        storyLabel.text = storyBrain.allStories[tempCurrentStory].title
+        choice1Button.setTitle(storyBrain.allStories[tempCurrentStory].choice1, for: .normal)
+        choice2Button.setTitle(storyBrain.allStories[tempCurrentStory].choice2, for: .normal)
         
     }
     
