@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var choice2Button: UIButton!
     
     override func viewDidLoad() {
+        
         super.viewDidLoad()
 
     }
